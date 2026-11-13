@@ -1,4 +1,4 @@
-# 🎉 GuestFlow - Gestor de Lista de Invitados
+guest-list-manager - Gestor de Lista de Invitados
 
 Aplicación web interactiva desarrollada con **JavaScript Vanilla** y **HTML5** para la gestión, control de asistencia y filtrado avanzado de invitados a eventos.
 
@@ -6,7 +6,7 @@ Aplicación web interactiva desarrollada con **JavaScript Vanilla** y **HTML5** 
 
 ## 📌 Descripción
 
-Este proyecto fue desarrollado como parte de la materia **Desarrollo de Aplicaciones Web Modernas** (8.° Semestre). Consiste en un sistema para administrar la lista de invitados a una fiesta o evento, permitiendo registrar nuevas personas evitando duplicados, gestionar el estado de confirmación de asistencia, y realizar operaciones avanzadas de búsqueda, filtrado y manipulación de cadenas y arreglos.
+Este proyecto consiste en un sistema para administrar la lista de invitados a una fiesta o evento, permitiendo registrar nuevas personas evitando duplicados, gestionar el estado de confirmación de asistencia, y realizar operaciones avanzadas de búsqueda, filtrado y manipulación de cadenas y arreglos.
 
 ---
 
@@ -56,15 +56,4 @@ No requiere instalación de dependencias ni gestores de paquetes.
 1. **Clonar el repositorio**:
    ```bash
    git clone https://github.com/TU-USUARIO/NOMBRE-DEL-REPO.git
-   ```
-2. **Abrir el proyecto**:
-   - Puedes abrir directamente el archivo [index.html](file:///c:/Users/jovas/Documents/8%20Octavo%20Semestre/Desarrollo%20de%20aplicaciones%20web%20modernas-%20Jose%20Alfredo/ExamenDiagnostico/index.html) en tu navegador preferido (doble clic).
-   - O bien, si usas **VS Code**, utiliza la extensión **Live Server** haciendo clic derecho en `index.html` > *Open with Live Server*.
-
----
-
-## 👨‍💻 Autor
-
-- **José Alfredo** - Estudiante de Ingeniería / Desarrollo de Software (8.° Semestre)
-- Materia: *Desarrollo de Aplicaciones Web Modernas*
 
